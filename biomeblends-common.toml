@@ -1,0 +1,14 @@
+#When any blend is applied, the horizontal radius is multiplied by this number.
+# Default: 1.0
+# Range: 0.0 ~ 10.0
+horizontal_scale = 1.0
+#When any blend is applied, the vertical radius is multiplied by this number.
+# Default: 1.0
+# Range: 0.0 ~ 10.0
+vertical_scale = 1.0
+#Causes all blends to be applied from the bottom to the top of the world.
+ignore_vertical_radius = false
+#Cooldown between blend uses in ticks (20 ticks = 1 second).
+# Default: 10
+# Range: 0 ~ 1000
+blend_cooldown = 10

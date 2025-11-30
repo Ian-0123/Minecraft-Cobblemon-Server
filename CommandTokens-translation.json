@@ -1,0 +1,8 @@
+{
+  "LOCKED_TOKEN_NO_PERMISSION_MESSAGE": "§cYou cannot use this token because you are not the token owner!",
+  "CONFIG_RELOAD_MESSAGE": "§aCommandTokens config has been reloaded.",
+  "INVALID_TOKEN_NAME_MESSAGE": "§cCould not find a CommandToken with the name: %name%",
+  "TOKEN_USAGE_LORE_TEXT": "§7Right click with token in hand to redeem.",
+  "TOKEN_REUSABLE_LORE_TEXT": "§aThis token is reusable.",
+  "TOKEN_NO_PERMISSION_LUCKPERMS_MESSAGE": "§cYou do not have the required permission to use this CommandToken"
+}

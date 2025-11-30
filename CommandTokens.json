@@ -1,0 +1,53 @@
+{
+  "tokens": [
+    {
+      "name": "§aExample Token",
+      "commands": [
+        "give %p minecraft:diamond 2"
+      ],
+      "alias": "example",
+      "description": "§6Give the player 2 §bdiamonds",
+      "tokenColor": {
+        "alpha": 255,
+        "red": 255,
+        "green": 0,
+        "blue": 0
+      },
+      "reusable": false,
+      "permission": ""
+    },
+    {
+      "name": "§6Iron Token",
+      "commands": [
+        "give @a minecraft:iron_ingot 2"
+      ],
+      "alias": "iron",
+      "description": "§aGive everyone 2 iron ingots",
+      "tokenColor": {
+        "alpha": 255,
+        "red": 0,
+        "green": 255,
+        "blue": 0
+      },
+      "reusable": false,
+      "permission": ""
+    },
+    {
+      "name": "§dMining Token",
+      "commands": [
+        "effect give %p minecraft:haste 120 2",
+        "tellraw %p {\"text\":\"~*You have been granted a mining speed boost!*~\",\"color\":\"light_purple\"}"
+      ],
+      "alias": "mining",
+      "description": "§9Gives the user a 2 minute §6mining speed§9 boost",
+      "tokenColor": {
+        "alpha": 255,
+        "red": 0,
+        "green": 0,
+        "blue": 255
+      },
+      "reusable": false,
+      "permission": ""
+    }
+  ]
+}
