@@ -632,7 +632,9 @@ name=[
 "born_in_chaos_v1:spiritof_chaos",
 "born_in_chaos_v1:swarmer",
 "born_in_chaos_v1:zombie_bruiser",
-"born_in_chaos_v1:zombie_clown"
+"born_in_chaos_v1:zombie_clown",
+"friendsandfoes:mauler",
+"friendsandfoes:rascal"
 ]
 [[mob.rule]]
 type="block"
