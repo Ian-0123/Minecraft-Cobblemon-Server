@@ -2,6 +2,14 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
- 
+      {
+        "id": "MTC - 1.0.1 BETA",
+        "releasedAt": 20260119,
+        "promotions": {
+            "downloads": {
+                "curseforge": "https://www.curseforge.com/minecraft/modpacks/mtc-magic-tech-and-cobblemon/files/all?page=1&pageSize=20&showAlphaFiles=hide/"
+            }
+        }
+    }
   ]
 }
